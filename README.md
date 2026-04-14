@@ -9,7 +9,7 @@ app_file: app.py
 hf_oauth: true
 ---
 
-# ThinkBook 🧠
+# ThinkBook 
 
 ThinkBook is a powerful, self-hosted **NotebookLM Clone** that lets you ground an AI in your own data. Upload documents, ingest URLs, and transform your notes into summaries, interactive quizzes, or even a full 2-person podcast with audio.
 
